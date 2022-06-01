@@ -1,3 +1,8 @@
+VTK issues
+https://stackoverflow.com/questions/61754702/setting-up-vtk-with-python3-8-and-ubuntu-20-04
+https://github.com/sikang/mpl_ros/issues/18
+
+
 # MRSL Motion Primitive Library ROS
 [![wercker status](https://app.wercker.com/status/d282a628f39dac13997c792b2298bde0/s/master "wercker status")](https://app.wercker.com/project/byKey/d282a628f39dac13997c792b2298bde0)
 - - -
